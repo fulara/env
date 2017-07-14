@@ -1,0 +1,2 @@
+# env
+shell stuff mainly
