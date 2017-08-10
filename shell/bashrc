@@ -1,0 +1,3 @@
+export ENV_SCRIPT_PATH=/home/fulara/repos/fulara-env/shell
+source $ENV_SCRIPT_PATH/bash-specific.sh
+source $ENV_SCRIPT_PATH/sourced.sh
