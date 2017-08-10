@@ -1,1 +1,0 @@
-export MYHOME=/home/fulara
