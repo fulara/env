@@ -14,5 +14,5 @@ function f.wlookup { grep -R "$@" .; }
 alias f.cdenv="cd $ENV_SCRIPT_PATH"
 function f.cdrepo { cd $MYHOME/repos; }
 
-alias f.start-idea='/home/fulara/progsy/idea-IU-171.4694.70/bin/idea.sh 2>&1 >/dev/null &'
+alias f.start-idea='/home/fulara/progsy/idea-IU-172.3544.35/bin/idea.sh 2>&1 >/dev/null &'
 alias f.start-clion='/home/fulara/progsy/clion-2017.2/bin/clion.sh 2>&1 >/dev/null &'
